@@ -1,0 +1,41 @@
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.csproj.AssemblyReference.cache
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.Properties.Resources.resources
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.csproj.GenerateResource.cache
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.csproj.CoreCompileInputs.cache
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\bin\Debug\mycontacte.exe.config
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\bin\Debug\mycontacte.exe
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\bin\Debug\mycontacte.pdb
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.exe
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.pdb
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.Form1.resources
+C:\Users\Meta Pc\source\repos\mycontacte\mycontacte\obj\Debug\mycontacte.ADDorEDIT.resources
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\mycontacte.exe.config
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.exe
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.pdb
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\mycontacte.exe
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\mycontacte.pdb
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\EntityFramework.dll
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\EntityFramework.xml
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.csprojResolveAssemblyReference.cache
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.ADDorEDIT.resources
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.Form1.resources
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.Properties.Resources.resources
+C:\Users\Meta Pc\Documents\c#\mycontacte\mycontacte\obj\Debug\mycontacte.csproj.GenerateResource.Cache
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\mycontacte.exe.config
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\mycontacte.exe
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\mycontacte.pdb
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\EntityFramework.dll
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\EntityFramework.xml
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.csproj.AssemblyReference.cache
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.ADDorEDIT.resources
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.Form1.resources
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.Properties.Resources.resources
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.csproj.GenerateResource.cache
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.csproj.CoreCompileInputs.cache
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.csproj.Up2Date
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.exe
+C:\Users\marzieh\Desktop\mycontacte - Copy\mycontacte\obj\Debug\mycontacte.pdb
